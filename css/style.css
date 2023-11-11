@@ -56,7 +56,7 @@ body {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .button {
   color: #fff;
@@ -64,7 +64,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
 }
 .button:hover,
 .button:focus {
@@ -85,7 +85,7 @@ body {
 .list-benefits,
 .images,
 .portfolio-pic {
-  background: #fff;
+  background-color: #fff;
 }
 .portfolio {
   color: #2e2f42;
@@ -97,7 +97,7 @@ body {
   text-transform: capitalize;
 }
 .footer-box {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .footer-logo {
   color: #f4f4fd;
