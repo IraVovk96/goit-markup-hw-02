@@ -22,8 +22,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.logo .accent,
-.footer-logo .accent {
+.logo .accent {
   color: #2e2f42;
 }
 .menu-link {
@@ -36,9 +35,6 @@ body {
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
-}
-.menu-address {
-  font-style: normal;
 }
 .address-link {
   color: #434455;
@@ -131,4 +127,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.footer-logo .accent {
+  color: #f4f4fd;
 }
