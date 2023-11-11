@@ -36,6 +36,9 @@ body {
 .menu-link:focus {
   color: #404bbf;
 }
+.menu-content {
+  font-style: normal;
+}
 .address-link {
   color: #434455;
   font-size: 16px;
